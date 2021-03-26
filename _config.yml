@@ -2,9 +2,9 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1552870530                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1559332650                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
-appstore_link                             : https://apps.apple.com/app/id1552870530                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://apps.apple.com/app/id1559332650                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
 # presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
@@ -25,9 +25,9 @@ your_city                                 : Tokyo
 email_address                             : contact@yhiro.com
 facebook_username                         :                                           
 instagram_username                        : 
-twitter_username                          : ChemQuiz1
+twitter_username                          : JAPAN05658611
 github_username                           : Thomas1102-hiro
-youtube_username                          :
+youtube_username                          : O9T3BJ98gEWkPDAHDsrsFw
 
 
 
