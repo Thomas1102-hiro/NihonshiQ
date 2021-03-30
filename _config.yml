@@ -42,33 +42,33 @@ features                                  :
     description                           : 「(　？　)市は、佐賀県の最東端に位置する市である。九州陸路交通の要衝であり、佐賀市、唐津市に次いで佐賀県では第3位の人口を擁している。九州の陸上交通網において…」
     fontawesome_icon_name                 : book-open
 
-  - title                                 : この写真、ドコのまち？　〜風景から、まちの名前をを当てよう！〜
+  - title                                 : この写真、ドコ？　〜風景から、まちの名前をを当てよう！〜
     description                           : 「五稜郭、（？）ハリストス正教会、（？）山からの夜景…」
     fontawesome_icon_name                 : image
 
-  - title                                 : 出題はランダム形式。基礎問題も応用問題もまんべんなく。
-    description                           : 学習したい単元とクイズの種類を選択すると、１回あたりランダムに合計１０問のクイズが出題されます。間違えた場合は正解するまで再度出題されるので、より記憶に残るでしょう。解説もついているので、わからない場合は解説を見て再回答できます。解説がわかりにくい場合などは改善リクエストも受け付けています。
-    fontawesome_icon_name                 : random
+  - title                                 : この旗、ドコ？　〜旗から、まちの名前をを当てよう！〜
+    description                           : ー
+    fontawesome_icon_name                 : flag
 
-  - title                                 : 全国ランキングで、全国の化学学習ユーザと切磋琢磨しよう。
-    description                           : ただクイズを解くのもいいですが、スコアのウィークリーランキングシステムも搭載していますので、積極的に上位を狙えば、日々の学習へのモチベーションになるかもしれません。トップランクを獲得したり、一定の好成績を残したユーザにはちょっとしたお楽しみや特典を用意しています。
-    fontawesome_icon_name                 : trophy
+  - title                                 : ドコのお隣？　〜隣のまちから、推理しよう！〜
+    description                           : 「このまちのお隣は… 白山市、野々市市、河北郡津幡町、内灘町、富山県：小矢部市、南砺市」
+    fontawesome_icon_name                 : th-large
   
-  - title                                 : ライバル登録システムも搭載！近しい友人を登録すれば、お互い励みになるかも。
-    description                           : ランキングで競いあったユーザをフォローして、ライバル登録することもできます。もちろん毎日顔をあわせる知人や友人も誘ってお互い登録すれば、彼らの学習記録があなたの学習の励みになるかもしれません。
-    fontawesome_icon_name                 : users
+  - title                                 : この場所と形…ドコ？　〜地図から、推理しよう！〜
+    description                           : ー
+    fontawesome_icon_name                 : map-marked-alt
 
-  - title                                 : 毎日の学習を継続しよう。
-    description                           : クイズ終了後には、学習経験値であるXPとともにライフを回復できるフラスコを毎回もらえます。継続学習日数が増えると、獲得フラスコ量に一定のブーストがかかります。少しずつでも、毎日の学習をキープしましょう。
-    fontawesome_icon_name                 : fire
+  - title                                 : この人、ドコの市長？　〜…知ってるあはたはマニアック！〜
+    description                           : 「この人はどこの首長？　　河村たかし」
+    fontawesome_icon_name                 : user-alt
 
-  - title                                 : リアルタイムで通知を受け取れます。
-    description                           : 通知を受け取るようにすれば、新しいクイズが追加されたときはもちろん、あなたのランキングに変動があったときや、ライバルがあなたの学習記録を抜いたときなど、リアルタイムで必要な通知を受け取れます。
+  - title                                 : 難易度は初級から上級まで
+    description                           : 都道府県庁所在地など全国的に有名なまちは初級に頻出、中級や上級になれば小さなまちやちょっぴりマイナーなまちが続々登場！
     fontawesome_icon_name                 : bell
 
-  - title                                 : クイズは定期的に追加！
-    description                           : クイズは定期的に追加していきます。突然新しいクイズに出会ったときは、力試しのつもりでチャレンジしてみましょう。また、公式ツイッター「高校化学ChemQuiz」でも定期的に情報配信していますので、ぜひフォローしてくださいね。
-    fontawesome_icon_name                 : plus
+  - title                                 : 達成を集め、ココドコスコアランキングで上位をめざそう
+    description                           : いかに早く、正解を選べるかで、スコアが決まります。全国ランキングで上位をめざそう！また、一定の条件を満たせば達成も獲得できます！
+    fontawesome_icon_name                 : trophy
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
@@ -81,7 +81,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/acid11.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/background.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
