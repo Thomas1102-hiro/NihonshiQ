@@ -64,7 +64,7 @@ features                                  :
 
   - title                                 : 難易度は初級から上級まで
     description                           : 都道府県庁所在地など全国的に有名なまちは初級に頻出、中級や上級になれば小さなまちやちょっぴりマイナーなまちが続々登場！
-    fontawesome_icon_name                 : bell
+    fontawesome_icon_name                 : fire
 
   - title                                 : 達成を集め、ココドコスコアランキングで上位をめざそう
     description                           : いかに早く、正解を選べるかで、スコアが決まります。全国ランキングで上位をめざそう！また、一定の条件を満たせば達成も獲得できます！
