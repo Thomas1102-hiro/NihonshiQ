@@ -43,11 +43,12 @@
 		{% endif %}
 
 	</div>
-	<div class="footerLinks">
-		
+	<div>
 		<p>Icons made by <a href="" title="Dimitry Miroliubov">Dimitry Miroliubov</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></p><br>
 		<p>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></p><br>
 		<p>Icons made by <a href="https://www.flaticon.com/authors/mynamepong" title="mynamepong">mynamepong</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></p><br>
+	</div>
+	<div class="footerLinks">
 		
 		{% for page in site.pages %}
 			<a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a>
