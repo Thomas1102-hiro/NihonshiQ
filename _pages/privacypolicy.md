@@ -97,7 +97,7 @@ Mar 23 2021 制定
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>Firebase<br>提供先：Google LLC<br><a rel="noreferrer noopener" href="https://firebase.google.com/?hl=ja" target="_blank">公式サイト</a>、<a rel="noreferrer noopener" href="https://policies.google.com/privacy" target="_blank">プライバシーポリシー</a></li><li>Google AdMob<br>提供先：Google LLC<br><a rel="noreferrer noopener" href="https://www.google.com/about/" target="_blank">公式サイト</a>、<a rel="noreferrer noopener" href="https://www.google.com/intl/ja/policies/privacy/" target="_blank">プライバシーポリシー</a></li><li>Google Analytics<br>提供先：Google LLC<br><a rel="noreferrer noopener" href="https://www.google.com/analytics/" target="_blank">公式サイト</a>
+<ul><li>Firebase<br>提供先：Google LLC<br><a rel="noreferrer noopener" href="https://firebase.google.com/?hl=ja" target="_blank">公式サイト</a>、<a rel="noreferrer noopener" href="https://policies.google.com/privacy" target="_blank">プライバシーポリシー</a></li><li>Google AdMob<br>提供先：Google LLC<br><a rel="noreferrer noopener" href="https://www.google.com/about/" target="_blank">公式サイト</a>、<a rel="noreferrer noopener" href="https://www.google.com/intl/ja/policies/privacy/" target="_blank">プライバシーポリシー</a></li><li>Google Analytics<br>提供先：Google LLC<br><a rel="noreferrer noopener" href="https://www.google.com/analytics/" target="_blank">公式サイト</a></li>
 <!-- /wp:list -->
 
 <br>
