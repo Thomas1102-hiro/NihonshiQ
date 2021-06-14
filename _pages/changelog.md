@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 更新履歴
+title: Changelog
 include_in_header: true
 ---
 
-# 更新履歴
+# Changelog
 <!-- Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown. -->
 
 <br>
@@ -35,7 +35,8 @@ Abnormal and formidable against much the before well improper more spent far her
 <!-- ________ -->
 <br>
 
-### `最新リリース`
+### `Latest version`
+Version 1.0.0
 <!-- # **Version 1.0* -->
 <!-- Version 1.0をリリースしました。 -->
 
@@ -43,7 +44,7 @@ Abnormal and formidable against much the before well improper more spent far her
 
 ### `その他`
 <!-- # **Version 1.0* -->
-3.30.2.21 利用規約を制定
+9.6.2021 Privacy Policy established.
 
 <!-- <br>
 

@@ -2,73 +2,65 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1559332650                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1572188192                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
-appstore_link                             : https://apps.apple.com/app/id1559332650                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            : https://play.google.com/store/apps/details?id=com.yhiro.kokodokojapan                                          # Enter Google Play Store URL.
+appstore_link                             : https://apps.apple.com/app/id1572188192                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+playstore_link                            : https://play.google.com/store/apps/details?id=com.yhiro.CrysTapMusic                                          # Enter Google Play Store URL.
 # presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Crystap Music                                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : 無料                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : マニアックすぎる！？日本地理クイズゲーム
+app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Let's tap crystals! Feel the music!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : contact@yhiro.com                               
-your_link                                 : contact@yhiro.com                    
+your_name                                 : crystapmusic@yhiro.com                               
+your_link                                 : crystapmusic@yhiro.com                    
 your_city                                 : Tokyo                               
-email_address                             : contact@yhiro.com
-facebook_username                         : kokodoko.japan                                          
+email_address                             : crystapmusic@yhiro.com
+facebook_username                         : Crystap-Music-105998538381825                                          
 instagram_username                        : 
-twitter_username                          : JAPAN05658611
+twitter_username                          : CrystapMusic
 github_username                           : Thomas1102-hiro
-youtube_username                          : O9T3BJ98gEWkPDAHDsrsFw
+youtube_username                          : dwqDH0m2sYGGaSy50h3VAA
 
 
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : 日本の区市町村、あなたはどれくらい知っていますか？
-    description                           : 有名なあのまち、マイナーなまち。日本各地にある大小さまざまな区市町村を当てていくゲームです。日本のことをあまり知らないあなた、旅好きでいろんなまちに行ったことがあるあなた、日本地理に自信があるあなた、是非挑戦してみてください！
-    fontawesome_icon_name                 : question-circle
+  - title                                 : Simply tap the falling crystals with your fingers!
+    description                           : Crystals will be falling with the musical rhythm. Crystals are assigned to sounds of music such as drums, guitar, piano etc.
+    fontawesome_icon_name                 : hand-point-up
     
-  - title                                 : このまち、ドコ？　〜概要から、まちの名前をを当てよう！〜
-    description                           : 「(　？　)市は、佐賀県の最東端に位置する市である。九州陸路交通の要衝であり、佐賀市、唐津市に次いで佐賀県では第3位の人口を擁している。九州の陸上交通網において…」
-    fontawesome_icon_name                 : book-open
+  - title                                 : Various music genres!
+    description                           : EDM, JAZZ, POP and more genres are waiting for your play.
+    fontawesome_icon_name                 : music
 
-  - title                                 : この写真、ドコ？　〜風景から、まちの名前をを当てよう！〜
-    description                           : 「五稜郭、（？）ハリストス正教会、（？）山からの夜景…」
-    fontawesome_icon_name                 : image
+  - title                                 : Three difficulty levels
+    description                           : Each music has its own three difficulty play levels (Easy, Medium and Hard). Beginners, rhythm game experienced players and everyone will be able to enjoy playing.
+    fontawesome_icon_name                 : star
 
-  - title                                 : この旗、ドコ？　〜旗から、まちの名前をを当てよう！〜
-    description                           : ー
-    fontawesome_icon_name                 : flag
+  - title                                 : Can add extra music items
+    description                           : Some default music items are available for free play in advance. Some music items would be unlocked as reward items. You can also buy other music contents if you need more.
+    fontawesome_icon_name                 : folder-plus
 
-  - title                                 : ドコのお隣？　〜隣のまちから、推理しよう！〜
-    description                           : 「このまちのお隣は… 白山市、野々市市、河北郡津幡町、内灘町、富山県：小矢部市、南砺市」
-    fontawesome_icon_name                 : th-large
-  
-  - title                                 : この場所と形…ドコ？　〜地図から、推理しよう！〜
-    description                           : ー
-    fontawesome_icon_name                 : map-marked-alt
-
-  - title                                 : この人、ドコの市長？　〜…知ってるあはたはマニアック！〜
-    description                           : 「この人はどこの首長？　　河村たかし」
-    fontawesome_icon_name                 : user-alt
-
-  - title                                 : 難易度は初級から上級まで
-    description                           : 都道府県庁所在地など全国的に有名なまちは初級に頻出、中級や上級になれば小さなまちやちょっぴりマイナーなまちが続々登場！
-    fontawesome_icon_name                 : fire
-
-  - title                                 : 達成を集め、ココドコスコアランキングで上位をめざそう
-    description                           : いかに早く、正解を選べるかで、スコアが決まります。全国ランキングで上位をめざそう！また、一定の条件を満たせば達成も獲得できます！
+  - title                                 : Improve your play skill!
+    description                           : CRYSTAP Skill (Play skill) and its world ranking is available. Your CRYSTAP Skill will rise as your play results. If you achieve a good result in the difficult level music, your skill will rise significantly. Let's challenge!
     fontawesome_icon_name                 : trophy
+  
+  - title                                 : Get the latest infos!
+    description                           : Check and follow our official Twitter and Facebook account!
+    fontawesome_icon_name                 : twitter
+
+  - title                                 : Can you provide your original music for Crystap Music?
+    description                           : We welcome original music from you for this app. If you have any original cool music to offer us, please send us a message.
+    fontawesome_icon_name                 : compact-disc
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
