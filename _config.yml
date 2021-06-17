@@ -56,7 +56,7 @@ features                                  :
   
   - title                                 : Get the latest infos!
     description                           : Check and follow our official Twitter and Facebook account!
-    fontawesome_icon_name                 : twitter
+    fontawesome_icon_name                 : twitter-square
 
   - title                                 : Can you provide your original music for Crystap Music?
     description                           : We welcome original music from you for this app. If you have any original cool music to offer us, please send us a message.
