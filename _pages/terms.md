@@ -5,150 +5,42 @@ include_in_header: true
 ---
 
 **Last updated**  
-Mar 30 2021
+2021-06-09
 
-# 利用規約
+**Terms & Conditions**
 
-<br>
+By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions. The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to Crystap Music Developer Team.
 
-この利用規約（以下，「本規約」といいます。）は，ココドコJAPAN制作チーム（以下，「当チーム」といいます。）がモバイルデバイスで提供するサービス（以下，「本サービス」といいます。）の利用条件を定めるものです。登録ユーザの皆さま（以下，「ユーザ」といいます。）には，本規約に従って，本サービスをご利用いただきます。
+Crystap Music Developer Team is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
 
-## 第1条（適用）
+The Crystap Music app stores and processes personal data that you have provided to us, in order to provide my Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Crystap Music app won’t work properly or at all.
 
-1. 本規約は，ユーザと当チームとの間の本サービスの利用に関わる一切の関係に適用されるものとします。
-2. 当チームは本サービスに関し，本規約のほか，ご利用にあたってのルール等，各種の定め（以下，「個別規定」といいます。）をすることがあります。これら個別規定はその名称のいかんに関わらず，本規約の一部を構成するものとします。
-3. 本規約の規定が前条の個別規定の規定と矛盾する場合には，個別規定において特段の定めなき限り，個別規定の規定が優先されるものとします。
+The app does use third party services that declare their own Terms and Conditions.
 
-<br>
+Link to Terms and Conditions of third party service providers used by the app
 
-## 第2条（利用登録）
+*   [Google Play Services](https://policies.google.com/terms)
+*   [AdMob](https://developers.google.com/admob/terms)
+*   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
+*   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+*   [Unity](https://unity3d.com/legal/terms-of-service)
 
-1. 本サービスにおいては，登録希望者が本規約に同意の上，本サービスを供するアプリケーションをダウンロードしたことによって，利用登録が完了するものとします。
+You should be aware that there are certain things that Crystap Music Developer Team will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but Crystap Music Developer Team cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
 
-<br>
+If you’re using the app outside of an area with Wi-Fi, you should remember that your terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
 
-<!-- ## 第3条（ユーザIDおよびパスワードの管理）
+Along the same lines, Crystap Music Developer Team cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Crystap Music Developer Team cannot accept responsibility.
 
-1. ユーザは，自己の責任において，本サービスのユーザIDおよびパスワードを適切に管理するものとします。
-1. ユーザは，いかなる場合にも，ユーザIDおよびパスワードを第三者に譲渡または貸与し，もしくは第三者と共用することはできません。当チームは，ユーザIDとパスワードの組み合わせが登録情報と一致してログインされた場合には，そのユーザIDを登録しているユーザ自身による利用とみなします。
-1. ユーザID及びパスワードが第三者によって使用されたことによって生じた損害は，当チームに故意又は重大な過失がある場合を除き，当チームは一切の責任を負わないものとします。 -->
+With respect to Crystap Music Developer Team’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavour to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Crystap Music Developer Team accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
 
-<!-- <br> -->
+At some point, we may wish to update the app. The app is currently available on Android & iOS – the requirements for both systems(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Crystap Music Developer Team does not promise that it will always update the app so that it is relevant to you and/or works with the Android & iOS version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
 
-## 第3条（禁止事項）
+**Changes to This Terms and Conditions**
 
-ユーザは，本サービスの利用にあたり，以下の行為をしてはなりません。
+I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
 
-1. 法令または公序良俗に違反する行為
-1. 犯罪行為に関連する行為
-1. 当チーム，本サービスの他のユーザ，または第三者のサーバーまたはネットワークの機能を破壊したり，妨害したりする行為
-1. 当チームのサービスの運営を妨害するおそれのある行為
-1. 他のユーザに関する個人情報等を収集または蓄積する行為
-1. 不正アクセスをし，またはこれを試みる行為
-1. 他のユーザに成りすます行為
-1. 当チームのサービスに関連して，反社会的勢力に対して直接または間接に利益を供与する行為
-1. 当チーム，本サービスの他のユーザまたは第三者の知的財産権，肖像権，プライバシー，名誉その他の権利または利益を侵害する行為
-1. 以下の表現を含み，または含むと当チームが判断する内容を本サービス上に投稿し，または送信する行為
-    1. 過度に暴力的な表現
-    1. 露骨な性的表現
-    1. 人種，国籍，信条，性別，社会的身分，門地等による差別につながる表現
-    1. 自殺，自傷行為，薬物乱用を誘引または助長する表現
-    1. その他反社会的な内容を含み他人に不快感を与える表現
-1. 以下を目的とし，または目的とすると当チームが判断する行為
-    1. 営業，宣伝，広告，勧誘，その他営利を目的とする行為（当チームの認めたものを除きます。）
-    1. 性行為やわいせつな行為を目的とする行為
-    1. 面識のない異性との出会いや交際を目的とする行為
-    1. 他のユーザに対する嫌がらせや誹謗中傷を目的とする行為
-    1. 当チーム，本サービスの他のユーザ，または第三者に不利益，損害または不快感を与えることを目的とする行為
-    1. その他本サービスが予定している利用目的と異なる目的で本サービスを利用する行為
-1. 宗教活動または宗教団体への勧誘行為
-1. その他，当チームが不適切と判断する行為
+These terms and conditions are effective as of 2021-06-09
 
-<br>
+**Contact Us**
 
-## 第4条（本サービスの提供の停止等）
-
-1. 当チームは，以下のいずれかの事由があると判断した場合，ユーザに事前に通知することなく本サービスの全部または一部の提供を停止または中断することができるものとします。
-    1. 本サービスにかかるコンピュータシステムの保守点検または更新を行う場合
-    1. 地震，落雷，火災，停電または天災などの不可抗力により，本サービスの提供が困難となった場合
-    1. コンピュータまたは通信回線等が事故により停止した場合
-    1. その他，当チームが本サービスの提供が困難と判断した場合
-1. 当チームは，本サービスの提供の停止または中断により，ユーザまたは第三者が被ったいかなる不利益または損害についても，一切の責任を負わないものとします。
-
-
-<br>
-
-## 第5条（著作権）
-
-1. ユーザは，自ら著作権等の必要な知的財産権を有するか，または必要な権利者の許諾を得た文章，画像や映像等の情報に関してのみ，本サービスを利用し，アップロードすることができるものとします。
-1. ユーザが本サービスを利用して投稿ないしアップロードした文章，画像，映像等の著作権については，当該ユーザその他既存の権利者に留保されるものとします。ただし，当チームは，本サービスを利用して投稿ないしアップロードされた文章，画像，映像等について，本サービスの改良，品質の向上，または不備の是正等ならびに本サービスの周知宣伝等に必要な範囲で利用できるものとし，ユーザは，この利用に関して，著作者人格権を行使しないものとします。
-1. 前項本文の定めるものを除き，本サービスおよび本サービスに関連する一切の情報についての著作権およびその他の知的財産権はすべて当チームまたは当チームにその利用を許諾した権利者に帰属し，ユーザは無断で複製，譲渡，貸与，翻訳，改変，転載，公衆送信（送信可能化を含みます。），伝送，配布，出版，営業使用等をしてはならないものとします。
-
-
-<br>
-
-## 第6条（利用制限および登録抹消）
-
-1. 当チームは，ユーザが以下のいずれかに該当する場合には，事前の通知なく，ユーザに対して本サービスの全部もしくは一部の利用を制限しまたはユーザとしての登録を抹消することができるものとします。
-    1. 本規約のいずれかの条項に違反した場合
-    1. その他，当チームが本サービスの利用を適当でないと判断した場合
-1. 当チームは，本条に基づき当チームが行った行為によりユーザに生じた損害について，一切の責任を負いません。
-
-
-<br>
-
-## 第7条（退会）
-
-ユーザは，当チームの定める退会手続により，本サービスから退会できるものとします。
-
-<br>
-
-## 第8条（保証の否認および免責事項）
-
-1. 当チームは，本サービスに事実上または法律上の瑕疵（安全性，信頼性，正確性，完全性，有効性，特定の目的への適合性，セキュリティなどに関する欠陥，エラーやバグ，権利侵害などを含みます。）がないことを明示的にも黙示的にも保証しておりません。
-1. 当チームは，本サービスに起因してユーザに生じたあらゆる損害について一切の責任を負いません。ただし，本サービスに関する当チームとユーザとの間の契約（本規約を含みます。）が消費者契約法に定める消費者契約となる場合，この免責規定は適用されません。
-1. 当チームは，本サービスに関して，ユーザと他のユーザまたは第三者との間において生じた取引，連絡または紛争等について一切責任を負いません。
-
-<br>
-
-## 第9条（サービス内容の変更等）
-
-当チームは，ユーザに通知することなく，本サービスの内容を変更しまたは本サービスの提供を中止することができるものとし，これによってユーザに生じた損害について一切の責任を負いません。
-
-<br>
-
-## 第10条（利用規約の変更）
-
-当チームは，必要と判断した場合には，ユーザに通知することなくいつでも本規約を変更することができるものとします。なお，本規約の変更後，本サービスの利用を開始した場合には，当該ユーザは変更後の規約に同意したものとみなします。
-
-
-
-<br>
-
-## 第11条（個人情報の取扱い）
-
-当チームは，本サービスの利用によって取得する個人情報については，当チーム「プライバシーポリシー」に従い適切に取り扱うものとします。
-
-<br>
-
-## 第12条（通知または連絡）
-
-ユーザと当チームとの間の通知または連絡は，当チームの定める方法によって行うものとします。当チームは,ユーザから,当チームが別途定める方式に従った変更届け出がない限り,現在登録されている連絡先が有効なものとみなして当該連絡先へ通知または連絡を行い,これらは,発信時にユーザへ到達したものとみなします。
-
-<br>
-
-## 第13条（権利義務の譲渡の禁止）
-
-ユーザは，当チームの書面による事前の承諾なく，利用契約上の地位または本規約に基づく権利もしくは義務を第三者に譲渡し，または担保に供することはできません。
-
-<br>
-
-## 第14条（準拠法・裁判管轄）
-
-1. 本規約の解釈にあたっては，日本法を準拠法とします。
-1. 本サービスに関して紛争が生じた場合には，当チームの本店所在地を管轄する裁判所を専属的合意管轄とします。
-
-
-<br>
-
-<div style="text-align: right"> 制定： 2021年3月30日 </div>
+If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at <a href="mailto:crystapmusic@yhiro.com?subject=Feedback to CRYSTAP MUSIC" data-type="mailto" data-id="mailto:crystapmusic@yhiro.com?subject=Feedback to CRYSTAP MUSIC">crystapmusic@yhiro.com</a>.
