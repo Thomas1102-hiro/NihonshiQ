@@ -36,7 +36,7 @@ Abnormal and formidable against much the before well improper more spent far her
 <br>
 
 ### `Latest version`
-Version 0.1.0
+Version 1.0.0
 <!-- # **Version 1.0* -->
 <!-- Version 1.0をリリースしました。 -->
 
@@ -45,6 +45,7 @@ Version 0.1.0
 ### `その他`
 <!-- # **Version 1.0* -->
 9.6.2021 Privacy Policy established.
+9.24.2021 Terms established.
 
 <!-- <br>
 
