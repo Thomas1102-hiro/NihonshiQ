@@ -157,4 +157,4 @@ Sep 24 2021
 
 <br>
 
-<div style="text-align: right"> 制定： 2021年1月1日 </div>
+<div style="text-align: right"> 制定： 2021年9月24日 </div>
