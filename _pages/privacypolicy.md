@@ -108,7 +108,7 @@ include_in_header: true
 
 ## 7.0 問合せ窓口
 <!-- wp:paragraph -->
-<p>いっしょにQ!制作チーム YAMASHITA Hiroyuki<br><a href="mailto:qtogether@yhiro.com?subject=いっしょにQ!へのお問い合わせ" data-type="mailto" data-id="mailto:qtogether@yhiro.com?subject=いっしょにQ!へのお問い合わせ">qtogether@yhiro.com</a></p>
+<p>いっしょにQ!制作チーム YAMASHITA Hiroyuki<br><a href="mailto:info@qtogether.yhiro.com?subject=いっしょにQ!へのお問い合わせ" data-type="mailto" data-id="mailto:info@qtogether.yhiro.com?subject=いっしょにQ!へのお問い合わせ">info@qtogether.yhiro.com</a></p>
 <!-- /wp:paragraph -->
 
 <br>
