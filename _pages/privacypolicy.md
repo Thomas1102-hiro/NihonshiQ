@@ -5,14 +5,14 @@ include_in_header: true
 ---
 
 **Last updated**  
-9.24.2021 制定
+6.10.2022 制定
 
 # プライバシーポリシー
 
 <br>
 
 ## 1.0 情報を取得するアプリ提供者の名称
-いっしょにQ!制作チーム YAMASHITA Hiroyuki
+高校日本史Q!制作チーム YAMASHITA Hiroyuki
 
 <br>
 
@@ -75,7 +75,7 @@ include_in_header: true
 <br>
 
 ## 5.0 通知・公表又は同意取得の方法、利用者関与の方法
-本アプリによる情報送信を停止したい場合には、ホーム画面左上プロフィール画像アイコンをタップし、「アカウントの削除」によりユーザアカウントを削除したあと、本アプリをアンインストールしてください。
+本アプリによる情報送信を停止したい場合には、アプリ設定画面から「アカウントの削除」によりユーザアカウントを削除したあと、本アプリをアンインストールしてください。
 
 <br>
 
@@ -108,7 +108,7 @@ include_in_header: true
 
 ## 7.0 問合せ窓口
 <!-- wp:paragraph -->
-<p>いっしょにQ!制作チーム YAMASHITA Hiroyuki<br><a href="mailto:info@qtogether.yhiro.com?subject=いっしょにQ!へのお問い合わせ" data-type="mailto" data-id="mailto:info@qtogether.yhiro.com?subject=いっしょにQ!へのお問い合わせ">info@qtogether.yhiro.com</a></p>
+<p>高校日本史Q!制作チーム YAMASHITA Hiroyuki<br><a href="mailto:info@nipponq.yhiro.com?subject=高校日本史Q!へのお問い合わせ" data-type="mailto" data-id="mailto:info@qtogether.yhiro.com?subject=高校日本史Q!へのお問い合わせ">info@nipponq.yhiro.com</a></p>
 <!-- /wp:paragraph -->
 
 <br>
@@ -118,4 +118,4 @@ include_in_header: true
 <p>当チームは、このプライバシーポリシーを随時更新することがあります。このプライバシーポリシーの変更は、本アプリ内に掲載した時点から適用されるものとします。</p>
 <!-- /wp:paragraph -->
 
-<div style="text-align: right"> 制定： 2021年9月24日 </div>
+<div style="text-align: right"> 制定： 2022年6月10日 </div>
