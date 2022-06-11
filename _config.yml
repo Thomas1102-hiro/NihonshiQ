@@ -34,29 +34,33 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : 一対一でオンラインクイズ対戦！
-    description                           : 階級に応じて、同じレベルのユーザとクイズ対戦を楽しもう。勝利数が増えていくと、階級が上がり、強者に出会うかも！？
-    fontawesome_icon_name                 : wifi
+  - title                                 : 新感覚!?一問一答＋パズル
+    description                           : 一問一答ですが、一言一句パズル形式で正確に回答を要されるので、正確な記憶の定着につながります。一方、手軽に回答できるので、いつでもどこでも空き時間にサクッと、日本史用語の暗記確認ができ、反復訓練でより着実に暗記が身に付きます。
+    fontawesome_icon_name                 : pencil
     
-  - title                                 : 多彩なクイズジャンル！
-    description                           : スポーツ、芸能・エンタメ、学問文系、学問理系、アニメ・ゲーム、雑学、ノンジャンル。シングルプレイで得意ジャンルを楽しむのもよし、苦手ジャンルを克服するのもいいかも！？
+  - title                                 : 自分に合った学習
+    description                           : 時代別カテゴリ、難易度（初級・中級・上級）ごとに選択できるので、現在の自分の学習レベルや、学校での単元の進捗に応じてカスタマイズして学習できます。暗記が苦手な人は初級から始めてみましょう。
     fontawesome_icon_name                 : gamepad
 
-  - title                                 : あなたのオリジナルのクイズも投稿できる！
-    description                           : あなたの得意ジャンルをクイズにしよう！初級レベルから上級レベルのクイズを作って投稿すれば、たくさんのユーザに楽しんで遊んでもらえるでしょう。
-    fontawesome_icon_name                 : file-alt
+  - title                                 : ウィークリー全国模試に参加しよう！
+    description                           : 週に一度、ウィークリー全国模試を開催。出題範囲が事前に公開されるので、重点的に範囲を予習し、試験に臨んでみてください。成績優秀者はランキング公開！あなた自身の結果や全国偏差値などの情報もフィードバックされますので、今後の学習の参考にしてください。
+    fontawesome_icon_name                 : file-lines
 
   - title                                 : ランキング上位をめざそう！
-    description                           : クイズバトル勝利数、投稿クイズで得た高評価数、シングルプレイで獲得したスコアに応じたレベルなど、各ジャンルでぜひ上位をめざそう！
+    description                           : ユーザが参加するランキングで、モチベーションもアップ！難易度の高いものを学習するほど、得られるスコアが高くなります。
     fontawesome_icon_name                 : trophy
 
-  - title                                 : 他のユーザの投稿クイズを評価できる！
-    description                           : クイズバトル後には、出題されたクイズを評価することができます。楽しめたクイズ、勉強になったクイズには「いいね！」を、そうでないクイズには指摘をして評価しよう。皆さんの評価がクイズの質向上につながります！
-    fontawesome_icon_name                 : thumbs-up
+  - title                                 : 間違った問題は復習リストへ。
+    description                           : 苦手な問題に出会ったら、即お気に入り登録。復習リストからいつでもその問題を確認できるので、ピンポイントに、効率的に弱点を克服。
+    fontawesome_icon_name                 : star
   
-  - title                                 : コインを集めれば楽しみ幅もUP！
-    description                           : クイズバトルやシングルプレイ後にコインスロットができます。集めたコインを使ってクイズバトル、クイズ投稿、あなたの好きな楽しみ方を見つけてください。これらのコインが無制限になるプレミアム版も用意しています。
-    fontawesome_icon_name                 : coins
+  - title                                 : 熱中してしまう方へ
+    description                           : ダークモード対応ですので、寝る前など、目の疲労の軽減のためにご活用ください。
+    fontawesome_icon_name                 : moon
+    
+  - title                                 : 歴史好きなあなたにも。
+    description                           : 本アプリは高校日本史用語を取り扱った内容ですが、日本史好きのあなたも楽しめると思いますので、ぜひ参加してくださいね。
+    fontawesome_icon_name                 : people-group
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
